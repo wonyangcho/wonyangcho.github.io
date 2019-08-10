@@ -1,1 +1,1 @@
-- [스터디 블로그](https://wonyangcho.github.io)
+- [스터디 블로그](https://wonyangcho.github.io/studylog)
